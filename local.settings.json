@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WORKFLOWS_TENANT_ID": "02aa9fc1-18bc-4798-a020-e01c854dd434",
+    "WORKFLOWS_SUBSCRIPTION_ID": "334264f8-16d6-4fdf-95a9-755a26b82e90",
+    "WORKFLOWS_RESOURCE_GROUP_NAME": "SRS-POC",
+    "WORKFLOWS_LOCATION_NAME": "westus2",
+    "WORKFLOWS_MANAGEMENT_BASE_URI": "https://management.azure.com/"
+  }
+}
